@@ -1,3 +1,1 @@
-[url=google.com:/onclick='alert(document.domain)'[url=]]xss[/url]
-[xss link](data:text/html;base64,PHNjcmlwdD5hbGVydCgnWFNTJyk8L3NjcmlwdD4K)
-[link](data:text/html;base64,PHNjcmlwdD5hbGVydCgnWFNTJyk8L3NjcmlwdD4=)
+</code><style>*{color: red</style>
